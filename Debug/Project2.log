@@ -1,0 +1,91 @@
+﻿  CAlien.cpp
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(113,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(119,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(121,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(54,33): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(55,34): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(56,32): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(57,35): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(77,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(77,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(81,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(81,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(84,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(84,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(90,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(90,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(94,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(94,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(98,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(98,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(102,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(102,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(168,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(169,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(175,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(203,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(291,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(320,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(331,41): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(332,41): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(333,42): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(334,40): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(335,43): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CAlien.cpp(404,27): warning C4018: '<': signed/unsigned mismatch
+  CController.cpp
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(113,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(119,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(121,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CMinesweeper.h(116,40): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(123,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(123,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(326,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(333,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(334,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(357,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(379,46): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(391,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(415,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(438,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(493,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(498,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(498,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(507,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(588,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(598,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(619,30): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CController.cpp(652,23): warning C4018: '<': signed/unsigned mismatch
+  CGun.cpp
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(113,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(119,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(121,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(48,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(48,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(50,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(52,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(52,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(55,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(55,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(60,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(167,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(172,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(183,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(252,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(256,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(265,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(273,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(325,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(329,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CGun.cpp(339,27): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(113,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(119,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\C2DMatrix.h(121,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\CMinesweeper.h(116,40): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\main.cpp(408,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Project2.vcxproj -> C:\Users\Joshua\Desktop\VisualStudioNEATCombined\BetterFinalProject\Project2\Debug\Project2.exe
